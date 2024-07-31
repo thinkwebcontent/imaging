@@ -1,4 +1,4 @@
-module github.com/disintegration/imaging
+module github.com/thinkwebcontent/imaging
 
 go 1.22.2
 
